@@ -1,3 +1,9 @@
+## Summary
+
+Titre de la pull request : en anglais, de préférence au format Conventional Commits.
+
+Le corps de la pull request peut être rédigé en français.
+
 ## Objet
 
 Décrire brièvement le problème et la modification proposée.

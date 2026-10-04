@@ -14,4 +14,4 @@ Le robot complet et les bancs spécialisés sont composés depuis `phare-manifes
 
 ## Langue
 
-La langue de travail et de documentation du projet est le français. Les noms d'API, symboles de code et termes techniques établis peuvent rester en anglais lorsqu'ils suivent les conventions de l'écosystème utilisé.
+La documentation et les descriptions du projet sont rédigées en français. Les messages de commit, titres de pull request, titres d'issues et noms de branches sont rédigés en anglais. Les commits suivent Conventional Commits.

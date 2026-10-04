@@ -6,12 +6,4 @@
 
 PHARE est un projet étudiant de robotique humanoïde de l'ENSTA. Le projet développe une plateforme complète et modulaire couvrant le bas du corps, le torse, les bras, les mains, la tête, la perception, l'interaction humain-robot, le contrôle, la simulation et l'apprentissage.
 
-## Organisation technique
-
-L'organisation GitHub est structurée par responsabilité technique, pas par partie anatomique du robot. Les équipes BIPED, TORSO, ARMS, HANDS, HEAD et INTERACTIONS contribuent donc à plusieurs dépôts canoniques.
-
-Le robot complet et les bancs spécialisés sont composés depuis `phare-manifest`. Le contrôle model-based est organisé dans `phare-system`, le modèle nominal dans `phare-description`, le matériel réel dans `phare-hardware` et le Plant dans `phare-simulation`.
-
-## Langue
-
-La documentation et les descriptions du projet sont rédigées en français. Les messages de commit, titres de pull request, titres d'issues et noms de branches sont rédigés en anglais. Les commits suivent Conventional Commits.
+Le robot complet et les bancs spécialisés sont composés depuis [`phare-manifest`](https://github.com/phare-ensta/phare-manifest). Le contrôle model-based est développé dans [`phare-system`](https://github.com/phare-ensta/phare-system), le modèle nominal dans [`phare-description`](https://github.com/phare-ensta/phare-description), le matériel dans [`phare-hardware`](https://github.com/phare-ensta/phare-hardware) et les environnements de simulation dans [`phare-simulation`](https://github.com/phare-ensta/phare-simulation).

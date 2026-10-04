@@ -5,5 +5,3 @@
 **PHARE** signifie **Plateforme Humanoïde Autonome de Recherche et d'Expérimentation**.
 
 PHARE est un projet étudiant de robotique humanoïde de l'ENSTA. Le projet développe une plateforme complète et modulaire couvrant le bas du corps, le torse, les bras, les mains, la tête, la perception, l'interaction humain-robot, le contrôle, la simulation et l'apprentissage.
-
-Le robot complet et les bancs spécialisés sont composés depuis [`phare-manifest`](https://github.com/phare-ensta/phare-manifest). Le contrôle model-based est développé dans [`phare-system`](https://github.com/phare-ensta/phare-system), le modèle nominal dans [`phare-description`](https://github.com/phare-ensta/phare-description), le matériel dans [`phare-hardware`](https://github.com/phare-ensta/phare-hardware) et les environnements de simulation dans [`phare-simulation`](https://github.com/phare-ensta/phare-simulation).

@@ -1,0 +1,13 @@
+# PHARE code ownership
+# Organization-wide public GitHub configuration.
+
+* @phare-ensta/platform @phare-ensta/maintainers
+
+/profile/ @phare-ensta/platform
+/workflow-templates/ @phare-ensta/platform @phare-ensta/maintainers
+/ISSUE_TEMPLATE/ @phare-ensta/platform
+/PULL_REQUEST_TEMPLATE.md @phare-ensta/platform
+/CONTRIBUTING.md @phare-ensta/platform
+/SECURITY.md @phare-ensta/maintainers
+
+/.github/CODEOWNERS @phare-ensta/maintainers

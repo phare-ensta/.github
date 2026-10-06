@@ -8,7 +8,7 @@ PHARE est un projet étudiant de robotique humanoïde de l'ENSTA. Le projet dév
 
 ## Pour contribuer
 
-- Une idée ou une solution est encore à explorer : créer un **PHARE Lab** depuis [phare-lab-template](https://github.com/phare-ensta/phare-lab-template).
+- Une idée ou une solution est encore à explorer : créer un **PHARE Lab** depuis [le formulaire de création](https://github.com/phare-ensta/phare-lab-template/issues/new?template=create-lab.yml).
 - Le travail à réaliser est déjà clairement rattaché au robot : utiliser le guide [Où placer le code et les artefacts PHARE](https://github.com/phare-ensta/phare-docs/blob/main/docs/getting-started/repository-routing.md).
 - Pour comprendre le projet avant de contribuer : commencer par la [vue d'ensemble PHARE](https://github.com/phare-ensta/phare-docs/blob/main/docs/system/project-overview.md).
 

@@ -2,14 +2,26 @@
 
 # PHARE
 
-**PHARE** signifie **Plateforme Humanoïde Autonome de Recherche et d'Expérimentation**.
+**Plateforme Humanoïde Autonome de Recherche et d'Expérimentation**
 
-PHARE est un projet étudiant de robotique humanoïde de l'ENSTA. Le projet développe une plateforme complète et modulaire couvrant le bas du corps, le torse, les bras, les mains, la tête, la perception, l'interaction humain-robot, le contrôle, la simulation et l'apprentissage.
+PHARE est un projet étudiant porté par l’ENSTA, réunissant des élèves ingénieurs de différentes disciplines autour d’une ambition commune : **concevoir, construire et développer le premier robot humanoïde autonome d'école d'ingénieurs en France.**
 
-## Pour contribuer
+À la croisée de la mécanique, de l’électronique, de l’automatique et de l’intelligence artificielle, PHARE fait de la robotique un terrain d’expérimentation, d’innovation et de formation par la pratique.
 
-- Une idée ou une solution est encore à explorer : créer un **PHARE Lab** depuis [le formulaire de création](https://github.com/phare-ensta/phare-lab-template/issues/new?template=create-lab.yml).
-- Le travail à réaliser est déjà clairement rattaché au robot : utiliser le guide [Où placer le code et les artefacts PHARE](https://github.com/phare-ensta/phare-docs/blob/main/docs/getting-started/repository-routing.md).
-- Pour comprendre le projet avant de contribuer : commencer par la [vue d'ensemble PHARE](https://github.com/phare-ensta/phare-docs/blob/main/docs/system/project-overview.md).
+## Le projet
 
-L'objectif est simple : les Labs servent à explorer librement ; les dépôts techniques servent à intégrer ce qui a été retenu.
+Développé entre les campus de Paris-Saclay et de Brest, PHARE vise la réalisation d'un robot humanoïde modulaire, intégrant notamment une locomotion hybride roues-jambes, des capacités de manipulation et des systèmes de perception et de contrôle autonomes.
+
+Le projet s'inscrit dans une démarche d'ingénierie complète, de la conception et de la simulation jusqu'à la fabrication, l'intégration et l'expérimentation sur un système réel.
+
+## Développement
+
+Cette organisation GitHub héberge les dépôts techniques de PHARE.
+
+Le développement est actuellement réalisé au sein de dépôts privés, accessibles aux membres autorisés du projet. Les contributions externes directes ne sont pas ouvertes à ce stade.
+
+## Suivre et soutenir PHARE
+
+Retrouvez les actualités, les expérimentations et les avancées du projet sur notre [page LinkedIn](https://www.linkedin.com/company/ensta-phare).
+
+**Éclairer la robotique de demain.**

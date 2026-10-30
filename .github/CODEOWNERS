@@ -1,13 +1,17 @@
+# CODEOWNERS team review requests are disabled for this repository.
+# The former ownership map is preserved below as comments for human guidance.
+# Add a team manually to a pull request when it needs to review.
+
 # PHARE code ownership
 # Organization-wide public GitHub configuration.
 
-* @phare-ensta/platform @phare-ensta/maintainers
+# * @phare-ensta/platform @phare-ensta/maintainers
 
-/profile/ @phare-ensta/platform
-/workflow-templates/ @phare-ensta/platform @phare-ensta/maintainers
-/ISSUE_TEMPLATE/ @phare-ensta/platform
-/PULL_REQUEST_TEMPLATE.md @phare-ensta/platform
-/CONTRIBUTING.md @phare-ensta/platform
-/SECURITY.md @phare-ensta/maintainers
+# /profile/ @phare-ensta/platform
+# /workflow-templates/ @phare-ensta/platform @phare-ensta/maintainers
+# /ISSUE_TEMPLATE/ @phare-ensta/platform
+# /PULL_REQUEST_TEMPLATE.md @phare-ensta/platform
+# /CONTRIBUTING.md @phare-ensta/platform
+# /SECURITY.md @phare-ensta/maintainers
 
-/.github/CODEOWNERS @phare-ensta/maintainers
+# /.github/CODEOWNERS @phare-ensta/maintainers
